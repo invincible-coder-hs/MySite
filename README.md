@@ -1,7 +1,8 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Harshit Singh</h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+
+![sukuna](https://github.com/user-attachments/assets/96b42544-cf7a-47a0-8dd9-1ff1e8c7aac3)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
@@ -9,11 +10,11 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 
 </p>
 
-<h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
+<h2 style="font-family: Georgia, serif; color: #34495e;">/Shopping websites that I use </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
-  <li><strong>Instagram</strong>: <a href="https://instagram.com/abhijit.wav" style="color: #2980b9;">@abhijit.wav</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/abhijiiitpatil" style="color: #2980b9;">@abhijiiitpatil</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/abhijit-23blaze" style="color: #2980b9;">@abhijit-23blaze</a></li>
+  <li><strong>Flipkart</strong>: <a href="https://www.flipkart.com/" style="color: #2980b9;">@abhijit.wav</a></li>
+  <li><strong>Amazon</strong>: <a href="https://www.amazon.in/#:~:text=Amazon.in:%20Online%20Shopping%20India%20-%20Buy" style="color: #2980b9;">@abhijiiitpatil</a></li>
+  
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
