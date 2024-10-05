@@ -12,8 +12,8 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Shopping websites that I use </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
-  <li><strong>Flipkart</strong>: <a href="https://www.flipkart.com/" style="color: #2980b9;">@abhijit.wav</a></li>
-  <li><strong>Amazon</strong>: <a href="https://www.amazon.in/#:~:text=Amazon.in:%20Online%20Shopping%20India%20-%20Buy" style="color: #2980b9;">@abhijiiitpatil</a></li>
+  <li><strong>Flipkart</strong>: <a href="https://www.flipkart.com/" style="color: #2980b9;">flipkart</a></li>
+  <li><strong>Amazon</strong>: <a href="https://www.amazon.in/#:~:text=Amazon.in:%20Online%20Shopping%20India%20-%20Buy" style="color: #2980b9;">amazon</a></li>
   
 </ul>
 
